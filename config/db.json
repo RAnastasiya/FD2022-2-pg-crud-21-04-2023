@@ -1,0 +1,23 @@
+{
+    "development": {
+        "host": "localhost",
+        "port": 5432,
+        "database": "fd_pg_crud",
+        "user": "postgres",
+        "password": "1234"
+    },
+    "test": {
+        "host": "localhost",
+        "port": 5432,
+        "database": "fd_pg_crud",
+        "user": "postgres",
+        "password": "1234"
+    },
+    "production": {
+        "host": "localhost",
+        "port": 5432,
+        "database": "fd_pg_crud",
+        "user": "postgres",
+        "password": "1234"
+    }
+}
